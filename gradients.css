@@ -1,0 +1,9 @@
+.postblock .postcontent {
+    background: linear-gradient(to right, #e8f3ff, #fff 275px);
+}
+.postblock.postblock-read .postcontent {
+    background: linear-gradient(to right, #eeeff1, #fff 275px);
+}
+.postblock.postblock-own .postcontent {
+    background: linear-gradient(to right, #f7ffe2, #fff 275px);
+}
